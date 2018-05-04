@@ -1,0 +1,16 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "backend",
+    "username": "joseluisjb1990",
+    "userEmail": "jljb1990@gmail.com",
+    "stack": "server",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "joseluisjb1990",
+    "client": "",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "babel",
+    "secure": false,
+    "testsSeparated": true
+  }
+}
